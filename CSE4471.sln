@@ -3,6 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F857859F-74E7-48DA-9640-D070DE23EE5C}"
+	ProjectSection(SolutionItems) = preProject
+		admin.cs = admin.cs
+		chatGUI.cs = chatGUI.cs
+		encryption.cs = encryption.cs
+		piCommunication.cs = piCommunication.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
